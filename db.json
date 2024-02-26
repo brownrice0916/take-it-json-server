@@ -1,0 +1,51 @@
+{
+  "surveyResults": [
+    {
+      "userId": "gusal",
+      "surveyResults": {
+        "surveyResult": {
+          "gender": "F",
+          "whom": "친구",
+          "age": "10s",
+          "money": [10000, 30000],
+          "isT": true
+        },
+        "gifts": [
+          {
+            "id": 4,
+            "name": "미니 손난로",
+            "toGender": "F",
+            "toWhom": ["친구", "연인"],
+            "price": 10000,
+            "isPractical": true,
+            "ages": ["10s"],
+            "imageUrl": null,
+            "score": 1
+          },
+          {
+            "id": 5,
+            "name": "잠옷",
+            "toGender": "F",
+            "toWhom": ["친구", "연인"],
+            "price": 30000,
+            "isPractical": true,
+            "ages": ["10s"],
+            "imageUrl": null,
+            "score": 1
+          },
+          {
+            "id": 7,
+            "name": "카카오 인형",
+            "toGender": "F",
+            "toWhom": ["친구", "연인"],
+            "price": 30000,
+            "isPractical": true,
+            "ages": ["10s"],
+            "imageUrl": null,
+            "score": 1
+          }
+        ]
+      }
+    }
+  ]
+}
